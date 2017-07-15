@@ -1,2 +1,16 @@
-# Video-Summarization
-Generating a short summarized video output of a input video strem using clustering 
+# Video-Summarization #
+
+## Introduction ##
+
+## Algorithmic Overview ##
+
+## Implementation Details ##
+
+## Code Overview ##
+
+
+## Snapshot ##
+
+## Results ##
+
+
